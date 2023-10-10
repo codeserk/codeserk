@@ -15,4 +15,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=codeserk&theme=dracula&show_icons=true&count_private=true)](https://github.com/codeserk)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=codeserk&theme=dracula&show_icons=true&count_private=true&show_icons=true&rank_icon=github"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=codeserk&theme=dracula&show_icons=true&count_private=true&show_icons=true&rank_icon=github"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=codeserk&theme=dracula&show_icons=true&count_private=true&show_icons=true&rank_icon=github" />
+</picture>
+
+----
+
+<a href="https://wakatime.com/@codeserk">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=codeserk&theme=dracula&show_icons=ture"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=codeserk&theme=dracula&show_icons=ture"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=codeserk" />
+</picture>
+</a>
