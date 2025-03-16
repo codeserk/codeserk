@@ -29,16 +29,3 @@ Here are some ideas to get you started:
 
 ----
 
-<a href="https://wakatime.com/@codeserk">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=codeserk&theme=dracula&show_icons=ture"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=codeserk&theme=dracula&show_icons=ture"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=codeserk" />
-</picture>
-</a>
